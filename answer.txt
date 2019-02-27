@@ -1,0 +1,5 @@
+The total count of the names I could fetch from the website is 92058 after removing duplicates.
+Due to the fact that the program is incapable of counting names in captions
+like "John Smith and Joe Brown with Bob Ross" and I did not get every title, 
+the number is low considering that the pickle file had about 145000 lines 
+and most captions had more than one person in it.
